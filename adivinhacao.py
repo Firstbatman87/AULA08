@@ -1,4 +1,4 @@
-import random as r
+import random
 
 numero_secreto = 7
 chute = int(input('Escolha um número de 1 a 10: '))
